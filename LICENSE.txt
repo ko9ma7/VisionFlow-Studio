@@ -1,0 +1,9 @@
+VisionFlow Studio public documentation and product materials
+Copyright (c) 2026 ko9ma7. All rights reserved.
+
+You may read and link to the public documentation and product materials.
+No license to the private VisionFlow Studio Core source code is granted.
+
+The files under sdk/ and examples/ are licensed under the MIT License in
+sdk/LICENSE.txt. Third-party components retain their original licenses;
+see THIRD-PARTY-NOTICES.md. Binary downloads are not relicensed by the SDK.
