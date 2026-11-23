@@ -4,10 +4,18 @@ Windows에서 화면의 대상과 수행할 동작을 연결하는 Vision Automa
 
 화면 선택 → 대상 선택 → 동작 선택 → 조건·반복 설정 → 실행 순서로 작업을 만듭니다. 이미지 찾기, OCR, 객체 인식, 추적, 마우스·키 입력, 조건 분기와 프로젝트 저장을 제공합니다.
 
-현재 시험판은 **2.8.0**입니다. 이 저장소에는 사용 문서, 공개 SDK·예제와 배포 파일을 제공합니다. 시험판 ZIP은 미서명 검토 후보이며 자동 업데이트용 정식 릴리스가 아닙니다. 기존 설치를 덮어쓰지 말고 새 폴더에 압축을 풀어 사용하세요.
+## 다운로드와 버전
+
+| 버전 | 상태 | 어디서 확인하나요? |
+|---|---|---|
+| **2.9.0** | 개발판 · 소스와 사용 안내 공개 | [2.8에서 달라진 점](release-notes/2.9.0.md) · [이미지 클릭 시작하기](docs/getting-started.md) |
+| **2.8.0** | 2026년 10월 12일 공개한 Windows 시험판 | [ZIP과 SHA-256](https://github.com/ko9ma7/VisionFlow-Studio/releases/tag/v2.8.0-preview.20261012) · [2.8.0 변경점](release-notes/2.8.0.md) |
+
+2.9.0에서는 **이미지 클릭 추가 → 그림 드래그 → 저장 → 반복 실행**으로 첫 작업을 만듭니다. 기존 단계가 그림을 놓치면 **찾기만 시험 → 전체 범위로 다시 시험**으로 클릭 없이 위치를 확인하고, 찾은 위치가 맞을 때 저장하세요. 키만 보내거나 클릭 후 키를 보낼 수도 있습니다. [동작 선택 안내](docs/workflows.md)
+
+공개된 실행 파일은 [GitHub Releases](https://github.com/ko9ma7/VisionFlow-Studio/releases)의 각 버전 **Assets**에서 받습니다. Windows x64 ZIP을 새 폴더에 풀고 실행하세요.
 
 - [기존 Windows 릴리스 2.7.1](https://github.com/ko9ma7/YoloMacro-Distribution/releases/tag/v2.7.1)
-- [2.8.0 시험판](https://github.com/ko9ma7/VisionFlow-Studio/releases/tag/v2.8.0-preview.20261012)
 - [처음 프로젝트 만들기](docs/getting-started.md)
 - [기능과 실행 안전](docs/workflows.md)
 - [설치·업데이트·인증](docs/install-update.md)

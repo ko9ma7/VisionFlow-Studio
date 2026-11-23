@@ -1,8 +1,8 @@
 # 설치·업데이트·인증
 
-현재 공개된 다운로드는 기존 [YoloMacro-Distribution의 VisionFlow Studio 2.7.1](https://github.com/ko9ma7/YoloMacro-Distribution/releases/tag/v2.7.1)입니다. 제품은 YoloMacro와 별도로 실행하고 데이터를 저장합니다.
+Windows 시험판은 [GitHub Releases](https://github.com/ko9ma7/VisionFlow-Studio/releases)에서 받습니다. [2.8.0 시험판 ZIP과 검증값](https://github.com/ko9ma7/VisionFlow-Studio/releases/tag/v2.8.0-preview.20261012)은 **Assets**에 있습니다. 이전 [2.7.1 배포본](https://github.com/ko9ma7/YoloMacro-Distribution/releases/tag/v2.7.1)은 기존 배포 저장소에 보관되어 있습니다.
 
-Windows x64와 .NET 8 Desktop Runtime이 필요합니다. ZIP을 완전히 해제한 폴더에서 실행하고, 프로젝트·이미지·모델 파일을 보관하세요. 업데이트 전에는 프로젝트를 별도로 백업하세요.
+Windows x64와 .NET 8 Desktop Runtime(x64)이 필요합니다. ZIP을 새 폴더에 완전히 풀고 그 안의 `VisionFlowStudio.exe`를 실행하세요. 프로젝트·이미지·모델 파일은 함께 보관하세요. 업데이트 전에는 프로젝트를 별도로 백업하세요.
 
 프로그램은 서명된 웹 인증 채널을 확인합니다. 네트워크가 없을 때는 검증된 캐시나 동봉된 서명 채널의 정책을 적용합니다. 인증 실패 이유는 화면에 표시하며 로컬 진단은 계속 사용할 수 있습니다. 인증을 위해 GitHub 비밀번호나 토큰을 프로그램에 입력하지 않습니다.
 
