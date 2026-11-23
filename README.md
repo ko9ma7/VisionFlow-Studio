@@ -4,11 +4,13 @@ Windows에서 화면의 대상과 수행할 동작을 연결하는 Vision Automa
 
 화면 선택 → 대상 선택 → 동작 선택 → 조건·반복 설정 → 실행 순서로 작업을 만듭니다. 이미지 찾기, OCR, 객체 인식, 추적, 마우스·키 입력, 조건 분기와 프로젝트 저장을 제공합니다.
 
+이번 수정으로 이미지 없이 키를 보내거나, 그림을 찾은 위치로 이동한 다음 키를 누를 수 있습니다. [작업 만들기 안내](docs/workflows.md)
+
 ## 다운로드와 버전
 
 | 버전 | 상태 | 어디서 확인하나요? |
 |---|---|---|
-| **2.9.0** | 개발판 · 소스와 사용 안내 공개 | [2.8에서 달라진 점](release-notes/2.9.0.md) · [이미지 클릭 시작하기](docs/getting-started.md) |
+| **2.9.0** | Windows x64 공개 시험판 | [ZIP 바로 다운로드](https://github.com/ko9ma7/VisionFlow-Studio/releases/download/v2.9.0-preview.20261124/VisionFlow-Studio-v2.9.0-preview-win-x64.zip) · [변경점](release-notes/2.9.0.md) · [이미지 클릭 시작하기](docs/getting-started.md) |
 | **2.8.0** | 2026년 10월 12일 공개한 Windows 시험판 | [ZIP과 SHA-256](https://github.com/ko9ma7/VisionFlow-Studio/releases/tag/v2.8.0-preview.20261012) · [2.8.0 변경점](release-notes/2.8.0.md) |
 
 2.9.0에서는 **이미지 클릭 추가 → 그림 드래그 → 저장 → 반복 실행**으로 첫 작업을 만듭니다. 기존 단계가 그림을 놓치면 **찾기만 시험 → 전체 범위로 다시 시험**으로 클릭 없이 위치를 확인하고, 찾은 위치가 맞을 때 저장하세요. 키만 보내거나 클릭 후 키를 보낼 수도 있습니다. [동작 선택 안내](docs/workflows.md)

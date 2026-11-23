@@ -1,5 +1,7 @@
 # 설치·업데이트·인증
 
+[2.9.0 시험판 ZIP 다운로드](https://github.com/ko9ma7/VisionFlow-Studio/releases/download/v2.9.0-preview.20261124/VisionFlow-Studio-v2.9.0-preview-win-x64.zip) · [SHA-256 및 릴리스 안내](https://github.com/ko9ma7/VisionFlow-Studio/releases/tag/v2.9.0-preview.20261124)
+
 Windows 시험판은 [GitHub Releases](https://github.com/ko9ma7/VisionFlow-Studio/releases)에서 받습니다. [2.8.0 시험판 ZIP과 검증값](https://github.com/ko9ma7/VisionFlow-Studio/releases/tag/v2.8.0-preview.20261012)은 **Assets**에 있습니다. 이전 [2.7.1 배포본](https://github.com/ko9ma7/YoloMacro-Distribution/releases/tag/v2.7.1)은 기존 배포 저장소에 보관되어 있습니다.
 
 Windows x64와 .NET 8 Desktop Runtime(x64)이 필요합니다. ZIP을 새 폴더에 완전히 풀고 그 안의 `VisionFlowStudio.exe`를 실행하세요. 프로젝트·이미지·모델 파일은 함께 보관하세요. 업데이트 전에는 프로젝트를 별도로 백업하세요.
